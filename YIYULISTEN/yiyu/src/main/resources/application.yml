@@ -1,0 +1,8 @@
+server:
+  port: 1127
+spring:
+  datasource:
+    username: root
+    password: 123456zklZKL..
+    url: jdbc:mysql://sh-cynosdbmysql-grp-3yfayiu6.sql.tencentcdb.com:29538/yiyulisten
+    driver-class-name: com.mysql.cj.jdbc.Driver
